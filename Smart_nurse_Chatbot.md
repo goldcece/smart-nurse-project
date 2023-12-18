@@ -44,7 +44,7 @@
 
 - **데이터 전처리 → LLM 모델 Fine-tuning  → Prompt fine-tuning → 챗봇 서비스 구현 → 웹앱 배포**
     
-    ![work flow](%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC%20%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%20%E1%84%91%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%8C%E1%85%B5%20cde6799b2f3f45cbad0f19855b303e2b/work_flow.001.png)
+    ![work flow](./Smart_nurse_Chatbot/work_flow.001.png)
     
     work flow
     
