@@ -6,8 +6,6 @@
 
 ☘️팀원 : 안지은, 홍세헌, 박아영
 
-🗄️Repository : [https://github.com/SmartNurse/Year_Dream](https://github.com/SmartNurse/Year_Dream)
-
 ---
 
 - **목차**
@@ -26,7 +24,7 @@
         2. Webapp deployment : Streamlit 
 
 
-
+---
     
 
 # 1. 프로젝트 **개요**
@@ -609,15 +607,15 @@
         
     - 결과 예시
         
-        Narrative Note(양식 비지정)
+        **Narrative Note(양식 비지정)**
         
         ![스크린샷 2023-12-14 오후 3.12.15.png](Smart_nurse_Chatbot/narrnote.png)
         
-        Focus DAR
+        **Focus DAR**
         
         ![스크린샷 2023-12-14 오후 3.12.38.png](Smart_nurse_Chatbot/focusdar.png)
         
-        SOAPIE
+        **SOAPIE**
         
         ![스크린샷 2023-12-14 오후 3.12.49.png](Smart_nurse_Chatbot/soapie.png)
         
@@ -677,7 +675,11 @@
     - 전문가에 의한 생성 답변 정확성 평가
     - 또는 여러개의 LLM 모델에 같은 prompt instruction 을 주었을 때 생성된 결과를 서로 비교하는 방법 등을 사용할 수 있음.
 
+
+
 ---
+
+
 
 # 4. 서비스 구현 및 배포
 
@@ -862,20 +864,18 @@
 - 데모
     
     ![챗봇 메인](Smart_nurse_Chatbot/chatbot_page.png)
-    
     챗봇 메인
     
     ![사용자 입력 쿼리 → 예시 생성](Smart_nurse_Chatbot/chatbot_ex.png)
-    
     사용자 입력 쿼리 → 예시 생성
     
 
 [웹앱 실행 데모 영상](Smart_nurse_Chatbot/final_(1).mp4)
 
-웹앱 실행 데모 영상
 
 **이슈 & 한계점**
 
 수많은 에러와의 싸움………디버깅디버깅디버깅
+LLM 모델을 직접 Fine-tuning 시 많인 비용과 시간이 소요됨 -> 하이브리드 모델 (RAG) 사용
 
 ###
