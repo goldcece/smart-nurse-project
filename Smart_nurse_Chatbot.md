@@ -446,7 +446,7 @@
         
 - 최종적으로 학습에 사용한 데이터
     
-    ![train_data.png](%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC%20%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%20%E1%84%91%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%8C%E1%85%B5%20cde6799b2f3f45cbad0f19855b303e2b/train_data.png)
+    ![train_data.png](Smart_nurse_Chatbot/train_data.png)
     
 
 # 3. Model : LLM(GPT-3.5 Turbo) Fine Tuning
